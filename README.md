@@ -23,6 +23,14 @@ VTOL stands for vertical take-off and landing, meaning that an aircraft with thi
 
 
 
+
+
+### Closed Loop Transfer Function of VTOL Pitch Control using PID controller in combination with Plant 
+
+![transfer function](https://user-images.githubusercontent.com/59099338/71298810-b59aff80-233e-11ea-98f4-971a2d4e0fde.JPG)
+
+
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
