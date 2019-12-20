@@ -1,4 +1,6 @@
-## MECA 482 FINAL REPORT FALL 2019 
+## MECA 482 Final Project Fall 2019
+
+
 
 By: Francisco Biordi, Cameron Schindler, Jacob Olsen 
 
