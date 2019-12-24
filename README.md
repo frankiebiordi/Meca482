@@ -1,6 +1,7 @@
 ## MECA 482 Final Project Fall 2019
 
-       ![chicoemblem](https://user-images.githubusercontent.com/59099338/71423980-4c6b0300-2642-11ea-8709-133acdd46edb.JPG)
+
+![chicoemblem](https://user-images.githubusercontent.com/59099338/71423980-4c6b0300-2642-11ea-8709-133acdd46edb.JPG)
 
 
 By: Francisco Biordi, Cameron Schindler, Jacob Olsen 
