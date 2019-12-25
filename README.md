@@ -36,5 +36,5 @@ A few different papers were referenced online to complete this project because w
 
  
 For the full report, please reference:
-#### MECA 482 VTOL Aircraft Control Report
+#### [MECA 482 VTOL Aircraft Control Report](https://github.com/frankiebiordi/Meca482/blob/master/MECA%20482%20VTOL%20Aircraft%20Control%20Report.pdf "Full Report")
 
